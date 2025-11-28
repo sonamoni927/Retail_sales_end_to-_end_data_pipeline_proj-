@@ -95,7 +95,7 @@ Custom Logging with Python’s logging module for persistent logs
 
 ```bash
 .
-├── data/
+├── README/data/
 │   ├── transactions.csv
 │   └── products.csv
 ├── notebooks/
@@ -107,5 +107,6 @@ Custom Logging with Python’s logging module for persistent logs
 ├── utils.py
 ├── requirements.txt
 └── README.md
+
 
 
