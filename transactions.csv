@@ -1,0 +1,5 @@
+transaction_id,customer_id,product_id,quantity,order_value,date
+T001,C001,P001,2,500,2024-05-01
+T002,C002,P002,1,200,2024-05-02
+T003,C001,P001,3,750,2024-05-03
+T004,C003,P003,1,300,2024-05-04
